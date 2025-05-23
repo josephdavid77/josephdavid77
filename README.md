@@ -95,7 +95,7 @@
     <header>
         <div class="header-content">
             <!-- Add your profile picture here -->
-            <img src="1.jpg" alt="your profile photo" class="kiruba.pdf">
+            <img src="1.jpg" alt="your profile photo" class="josephdavid.pdf">
             <h1>kiruba M</h1>
             <p>Am computer engineer</p>
         </div>
